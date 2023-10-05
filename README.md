@@ -12,7 +12,7 @@ Welcome to my portfolio! This repository showcases my work, skills, and experien
 
 ## About Me
 
-![Your Name](#insert-profile-image-url)
+![Rujuta](file:///C:/Users/HP/OneDrive/Desktop/portfolio%20ruju/index.html)
 
 I am a passionate [Your Profession or Field] with a strong background in [Your Skills/Expertise]. I love to [mention any hobbies or interests related to your field].
 
