@@ -1,4 +1,4 @@
-# [Rujuta]'s Portfolio
+# Rujuta's Portfolio
 
 Welcome to my portfolio! This repository showcases my work, skills, and experiences as a [Your Profession or Field].
 
