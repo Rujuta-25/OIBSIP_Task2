@@ -14,7 +14,7 @@ Welcome to my portfolio! This repository showcases my work, skills, and experien
 
 ![Rujuta](file:///C:/Users/HP/OneDrive/Desktop/portfolio%20ruju/index.html)
 
-I am a passionate [Your Profession or Field] with a strong background in [Your Skills/Expertise]. I love to [mention any hobbies or interests related to your field].
+I am student of artificial intelligece and data science engineering. I really enjoying solve problems and love to innovate new things.
 
 ## Projects
 
